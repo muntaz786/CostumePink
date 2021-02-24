@@ -1,0 +1,50 @@
+body {
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+}
+
+.header {
+
+	height:15px;
+	width:10px;
+    background-position: right;
+
+}
+
+h2{
+
+
+    text-align: center;
+
+}
+
+
+
+
+
+.footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    height: 100;
+    color: #8b3436;
+	background-color: yellowgreen;
+	text-align: center;
+}
+
+p {
+	margin-left: 20px;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+}
+
+h4{
+    text-align: center;
+
+}
